@@ -1,0 +1,44 @@
+ /** =======================================================
+ Create by ahmed Elgendy
+ Gmail:develgendy@gmail.com
+ phone: 01025105048
+
+======================================================= **/
+/********************************/
+
+.spacer {
+  margin-top: 50px;
+}
+h4{
+  font-weight: bold;
+  color: #337ab7;
+  font-family: 'Changa', sans-serif;
+}
+.form-group .home{
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 6px;
+  font-weight: 800;
+  font-family: 'Changa', sans-serif;
+}
+.form-group .home i{
+  float: left;
+    margin-left: -120px;
+  color: #26ad1a;
+}
+
+
+.homedata{
+  border: 1px solid #337ab7;
+}
+
+
+@media(max-width: 490px){
+
+  .form-group .home i{
+  
+    margin-left: -137px;
+   
+ }
+
+}
